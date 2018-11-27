@@ -12,4 +12,9 @@ $CMP MAX17690
 D The MAX17690 is a peak current mode, fixed-frequency switching controller specifically designed for the isolated flyback topology
 $ENDCMP
 #
+$CMP TPS54531
+D 5A, Step Down DC-DC Converter with Eco-mode, 4.5-28V Input Voltage, PowerSO-8
+K Step-Down DC-DC Switching Regulator High Voltage High Frequency
+$ENDCMP
+#
 #End Doc Library
