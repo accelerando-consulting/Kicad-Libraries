@@ -21,4 +21,22 @@ D 5A, Step Down DC-DC Converter with Eco-mode, 4.5-28V Input Voltage, PowerSO-8
 K Step-Down DC-DC Switching Regulator High Voltage High Frequency
 $ENDCMP
 #
+$CMP TTGO_LoRa32
+D WeMos D1 mini
+K esp8266, wemos
+F http://www.wemos.cc/Products/d1_mini.html
+$ENDCMP
+#
+$CMP TTGO_Mini32
+D WeMos D1 mini
+K esp8266, wemos
+F http://www.wemos.cc/Products/d1_mini.html
+$ENDCMP
+#
+$CMP WS2812B_2020
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
 #End Doc Library
