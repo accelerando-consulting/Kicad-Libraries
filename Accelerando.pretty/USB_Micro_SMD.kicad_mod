@@ -24,4 +24,9 @@
   (pad "4" smd rect (at 0.65 -3.302) (size 0.4 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 20fb5b3d-e8d6-4c45-aa49-8d2d35039828))
   (pad "5" smd rect (at 1.3 -3.302) (size 0.4 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 143f0e07-9129-4e34-825e-e598cb738e10))
   (pad "6" smd rect (at 0 -1.016) (size 8 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6e516df-247f-4306-965b-30448f51b962))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Molex_47346-0001.step"
+    (offset (xyz 0 2 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
